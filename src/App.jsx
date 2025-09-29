@@ -5,7 +5,7 @@ import './App.css'
 import BasicCard from './component/BasicCard'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(1)
   let arr=[
     {
       title:"FIRST CARD",
